@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "ES2015",
+        "strict": true,
+        "removeComments": true,
+        "sourceMap": true
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
